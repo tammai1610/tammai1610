@@ -5,7 +5,9 @@ how everything around us can be transformed into valuable insights.
 📈 Here, you'll find a collection of my data projects, ranging from practice exercises to explorations in various industries. 
 I'm always striving to improve and evolve, so I hope my journey offers something valuable for you too!
 
-💕 Fun fact: I love penguins, and I watch a data-related YouTube video every day!
+💕 Fun fact: I love penguins and enjoy playing badminton!
+
+📫 Feel free to message me at tammai265@usf.edu.
 <!--
 **tammai1610/tammai1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
