@@ -6,8 +6,8 @@ how everything around us can be transformed into valuable insights.
 I'm always striving to improve and evolve, so I hope my journey offers something valuable for you too!
 
 🔭 My current porfolio projects: 
-  - Customer Churn Analysis (Tableau, Excel) - Check it out [here]([url](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau))!
-  - Coffee Shop Sales Analysis (Excel) - Check it out here here [https://github.com/tammai1610/Excel-Coffee-Shop-Sales](url)!
+  - Customer Churn Analysis (Tableau, Excel) - Check it out [here](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau)!
+  - Coffee Shop Sales Analysis (Excel) - Check it out [here](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)!
 
 💕 Fun fact: I love penguins and enjoy playing badminton!
 
