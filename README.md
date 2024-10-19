@@ -20,8 +20,8 @@ I'm always striving to improve and evolve, so I hope my journey offers something
   <br> 👩‍💻 Building and optimizing SQL reports using stored procedures in Microsoft SQL Server and formatting report RDL in Microsoft Visual Studio.
 - **Data Visualization**:
   <br> 👩‍💻 Creating interactive dashboards using Power BI, Tableau, and Excel.
-- **Technical Documentation:**
-  <br> 👩‍💻 Documenting reports tailored to both non-technical users and technical stakeholders.
+- **Technical Documentation & Presentation:**
+  <br> 👩‍💻 Documenting & Presenting reports tailored to both non-technical users and technical stakeholders.
 
 💕 Fun fact: I love penguins and enjoy playing badminton!<br><br>📫 Feel free to message me at tammai265@usf.edu.<br>
 
