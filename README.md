@@ -13,15 +13,15 @@ I'm always striving to improve and evolve, so I hope my journey offers something
 
 🔭 My Expertise:
 - **Statistical Analysis**:
-  <br> - Performing regression analysis (linear and multiple), T-tests, and hypothesis testing. Assessing data uncertainty to inform decision-making.
+  <br> 👩‍💻 Performing regression analysis (linear and multiple), T-tests, and hypothesis testing. Assessing data uncertainty to inform decision-making.
 - **Data Modeling & Querying**:
-  <br> - Conducting Exploratory Data Analysis (EDA) for machine learning models with Python (NumPy, Pandas).
-  <br> - Developing ETL pipelines through Power Query (Excel, Power BI) and Tableau Prep.
-  <br> - Building and optimizing SQL reports using stored procedures in Microsoft SQL Server and formatting report RDL in Microsoft Visual Studio.
+  <br> 👩‍💻 Conducting Exploratory Data Analysis (EDA) for machine learning models with Python (NumPy, Pandas).
+  <br> 👩‍💻 Developing ETL pipelines through Power Query (Excel, Power BI) and Tableau Prep.
+  <br> 👩‍💻 Building and optimizing SQL reports using stored procedures in Microsoft SQL Server and formatting report RDL in Microsoft Visual Studio.
 - **Data Visualization**:
-  <br> - Creating interactive dashboards using Power BI, Tableau, and Excel.
+  <br> 👩‍💻 Creating interactive dashboards using Power BI, Tableau, and Excel.
 - **Technical Documentation:**
-  <br> - Documenting reports tailored to both non-technical users and technical stakeholders.
+  <br> 👩‍💻 Documenting reports tailored to both non-technical users and technical stakeholders.
 
 💕 Fun fact: I love penguins and enjoy playing badminton!<br><br>📫 Feel free to message me at tammai265@usf.edu.<br>
 
