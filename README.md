@@ -13,7 +13,7 @@ I'm always striving to improve and evolve, so I hope my journey offers something
 
 🔭 My Expertise: _On my way to excel and explore!_
 - **Statistical Analysis**:
-  <br> 👩‍💻 Performing regression analysis (linear and multiple), T-tests, and hypothesis testing. Assessing data uncertainty to inform decision-making.
+  <br> 👩‍💻 Performing linear and multiple regression analysis, T-tests, and hypothesis testing to forecast data and evaluate uncertainty for informed decision-making.
 - **Data Modeling & Querying**:
   <br> 👩‍💻 Conducting Exploratory Data Analysis (EDA) for machine learning models with Python (NumPy, Pandas).
   <br> 👩‍💻 Developing ETL pipelines through Power Query (Excel, Power BI) and Tableau Prep.
