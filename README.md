@@ -20,7 +20,7 @@ I'm always striving to improve and evolve, so I hope my journey offers something
   <br> 👩‍💻 Developing ETL pipelines through Power Query (Excel, Power BI) and Tableau Prep.
   <br> 👩‍💻 Building and optimizing SQL reports using stored procedures in Microsoft SQL Server and formatting report RDL in Microsoft Visual Studio.
 - **Data Visualization**:
-  <br> 👩‍💻 Creating stakeholder-focused dashboards using Power BI, Tableau, and Excel.
+  <br> 👩‍💻 Creating stakeholder-oriented reports using Power BI, Tableau, and Excel.
 - **Technical Documentation & Presentation:**
   <br> 👩‍💻 Documenting & Presenting reports tailored to both non-technical users and technical stakeholders.
 
