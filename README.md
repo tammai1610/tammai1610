@@ -9,7 +9,6 @@ I'm always striving to improve and evolve, so I hope my journey offers something
 
 🔭 My Projects: _Customer-Craved!_
 - Bank Customer Classification Preparation (Python, Pandas, Seaborn, Matplotlib) - Check it out [here](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)!
-- Customer Churn Analysis (Tableau, Excel) - Check it out [here](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau)!
 - Coffee Shop Sales Analysis (Excel) - Check it out [here](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)!
 
 🔭 My Expertise: _On my way to excel and explore!_
