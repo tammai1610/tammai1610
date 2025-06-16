@@ -1,32 +1,56 @@
-# 💫 About Me:
-# Hi there, I'm Tam! 👋 
-🌱 A Business Analytics student at the University of South Florida 
-<br> 🤔 Passionate about data-driven impacts and constantly curious about how everything around us can be transformed into valuable insights.
+# Hi, I'm Tam! 👋
 
-# 📈 Porfolio Projects & Expertise: 
-Here, you'll find a collection of my data projects, ranging from practice exercises to explorations in various industries. 
-I'm always striving to improve and evolve, so I hope my journey offers something valuable for you too!
+**Business Analytics Student** at University of South Florida  
+Passionate about transforming data into actionable insights and driving data-driven decision making.
 
-🔭 My Projects:
-- Bank Customer Classification Preparation (Python, Pandas, Seaborn, Matplotlib) - Check it out [here](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)!
-- Coffee Shop Sales Analysis (Excel) - Check it out [here](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)!
+## 👩‍💻 Featured Projects
 
-🔭 My Expertise: _On my way to excel and explore!_
-- **Statistical Analysis**:
-  <br> 👩‍💻 Performing linear and multiple regression analysis, T-tests, and hypothesis testing to forecast data and evaluate uncertainty for informed decision-making.
-- **Data Modeling & Querying**:
-  <br> 👩‍💻 Conducting Exploratory Data Analysis (EDA) for machine learning models with Python (NumPy, Pandas).
-  <br> 👩‍💻 Developing ETL pipelines through Power Query (Excel, Power BI) and Tableau Prep.
-  <br> 👩‍💻 Building and optimizing SQL reports using stored procedures in Microsoft SQL Server and formatting report RDL in Microsoft Visual Studio.
-- **Data Visualization**:
-  <br> 👩‍💻 Creating stakeholder-oriented reports using Power BI, Tableau, and Excel.
-- **Technical Documentation & Presentation:**
-  <br> 👩‍💻 Documenting & Presenting reports tailored to both non-technical users and technical stakeholders.
+**[AWS Movie Financial Analytics](https://github.com/tammai1610/AWS-Movie-Financial-Analytics)** *(Updating)*  
+End-to-end cloud analytics pipeline analyzing movie financial performance using AWS services
 
-💕 Fun fact: I'm proud of myself being a multitask chef 👩‍🍳 and my dream travel destination is Netherlands 🇳🇱. <br><br>📫 Feel free to message me at tammai265@usf.edu.<br>
+**[Bank Customer Classification](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)**  
+Customer segmentation analysis using Python, Pandas, Seaborn, and Matplotlib
 
+**[Customer Churn Analysis](https://github.com/tammai1610/Customer-Churn-Analysis)**  
+Comprehensive Tableau dashboard examining customer churn patterns, identifying key retention factors, analyzing demographic and behavioral trends
 
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**[Coffee Shop Sales Analysis](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)**  
+Comprehensive sales performance analysis with Excel dashboards and insights
 
+## 💼 Technical Skills
 
+**Statistical Analysis**  
+• Linear/multiple regression, hypothesis testing, and forecasting  
+• Statistical modeling for business decision-making
+
+**Data Engineering & Modeling**  
+• Exploratory Data Analysis with Python (NumPy, Pandas)  
+• ETL pipeline development (Power Query, Tableau Prep, AWS Lambda)  
+• SQL database design and optimization (Microsoft SQL Server, SQLite, AWS Athena)
+
+**Data Visualization**  
+• Interactive dashboards and reports (Power BI, Tableau, QuickSight)  
+• Stakeholder-focused storytelling with data
+
+**Technical Communication**  
+• Documentation and presentations for technical and non-technical audiences
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## 🌟 About Me
+
+When I'm not analyzing data, you'll find me multitasking in the kitchen as a chef 👩‍🍳 and reading books.  
+**Favorite Cuisine:** Vietnamese and Korean  
+**Currently Reading:** Die with a Zero
+
+## 📫 Let's Connect
+
+**Email:** tammai265@usf.edu
