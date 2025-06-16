@@ -11,8 +11,8 @@ End-to-end cloud analytics pipeline analyzing movie financial performance using 
 **[Bank Customer Classification](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)**  
 Customer segmentation analysis using Python, Pandas, Seaborn, and Matplotlib
 
-**[Customer Churn Analysis](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau)** 
-Comprehensive Tableau dashboard examining customer churn patterns, identifying key retention factors, analyzing demographic and behavioral trends
+**[Customer Churn Analysis](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau)**  
+Interactive Tableau stories examining customer churn patterns, identifying key retention factors, analyzing demographic and behavioral trends
 
 **[Coffee Shop Sales Analysis](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)**  
 Comprehensive sales performance analysis with Excel dashboards and insights
@@ -40,7 +40,7 @@ Comprehensive sales performance analysis with Excel dashboards and insights
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%sql%20server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -49,7 +49,7 @@ Comprehensive sales performance analysis with Excel dashboards and insights
 
 When I'm not analyzing data, you'll find me multitasking in the kitchen as a chef 👩‍🍳 and reading books.  
 **Favorite Cuisine:** Vietnamese and Korean  
-**Currently Reading:** Die with a Zero
+**Currently Reading:** Die with Zero
 
 ## 📫 Let's Connect
 
