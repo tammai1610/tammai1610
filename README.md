@@ -11,7 +11,8 @@ End-to-end cloud analytics pipeline analyzing movie financial performance using 
 **[Bank Customer Classification](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)**  
 Customer segmentation analysis using Python, Pandas, Seaborn, and Matplotlib
 
-**[Customer Churn Analysis](https://github.com/tammai1610/Customer-Churn-Analysis](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau )**  
+**[Customer Churn Analysis](https://github.com/tammai1610/Customer-Churn-Analysis-Tableau)** 
+
 Comprehensive Tableau dashboard examining customer churn patterns, identifying key retention factors, analyzing demographic and behavioral trends
 
 **[Coffee Shop Sales Analysis](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)**  
