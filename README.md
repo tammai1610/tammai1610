@@ -1,18 +1,7 @@
 # Hi, I'm Tam! 👋
 
 **Business Analytics Student** at University of South Florida  
-Passionate about transforming data into actionable insights and driving data-driven decision making.
-
-## 👩‍💻 Featured Projects
-
-**[AWS Movie Financial Analytics](https://github.com/tammai1610/AWS-Movie-Financial-Analytics)**
-End-to-end cloud analytics pipeline analyzing movie financial performance using AWS services
-
-**[Bank Customer Classification](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)**  
-Customer segmentation analysis using Python, Pandas, Seaborn, and Matplotlib
-
-**[Coffee Shop Sales Analysis](https://github.com/tammai1610/Excel-Coffee-Shop-Sales)**  
-Comprehensive sales performance analysis with Excel dashboards and insights
+Passionate about crafting data stories and building scalable systems that deliver efficient, long-term impact through smart, data-driven decisions.
 
 ## 💼 Technical Skills
 
