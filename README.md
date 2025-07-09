@@ -5,7 +5,7 @@ Passionate about transforming data into actionable insights and driving data-dri
 
 ## 👩‍💻 Featured Projects
 
-**[AWS Movie Financial Analytics](https://github.com/tammai1610/AWS-Movie-Financial-Analytics)** *(Updating)*  
+**[AWS Movie Financial Analytics](https://github.com/tammai1610/AWS-Movie-Financial-Analytics)**
 End-to-end cloud analytics pipeline analyzing movie financial performance using AWS services
 
 **[Bank Customer Classification](https://github.com/tammai1610/Commercial-Bank-Customer-Classification)**  
