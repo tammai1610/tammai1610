@@ -40,3 +40,5 @@ When I'm not analyzing data, you'll find me multitasking in the kitchen as a che
 ## 📫 Let's Connect
 
 **Email:** tammai265@usf.edu
+
+**Portfolio**: [Link](https://quirky-silicon-d95.notion.site/Tam-Mai-Data-Portfolio-2befa0989e4d80dcae13e42f5b5d05f4?pvs=74)
