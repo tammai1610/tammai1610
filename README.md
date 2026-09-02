@@ -1,7 +1,6 @@
 # Hi, I'm Tam! 👋
 
 **Business Analytics Student** at University of South Florida  
-Passionate about crafting data stories and building scalable systems that deliver efficient, long-term impact through smart, data-driven decisions.
 
 ## 💼 Technical Skills
 
@@ -34,8 +33,6 @@ Passionate about crafting data stories and building scalable systems that delive
 ## 🌟 About Me
 
 When I'm not analyzing data, you'll find me multitasking in the kitchen as a chef 👩‍🍳 and reading books.  
-**Favorite Cuisine:** Vietnamese and Korean  
-**Currently Reading:** Die with Zero
 
 ## 📫 Let's Connect
 
