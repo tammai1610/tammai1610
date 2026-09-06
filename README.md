@@ -1,6 +1,6 @@
 # Hi, I'm Tam! 👋
 
-**Business Analytics Student** at University of South Florida  
+**Business Analytics Senior** at University of South Florida  
 
 ## 💼 Technical Skills
 
@@ -32,8 +32,8 @@
 
 ## 🌟 About Me
 
-When I'm not analyzing data, you'll find me multitasking in the kitchen as a chef 👩‍🍳 and reading books.  
+I love morning meditation, reading books, and exploring nature!
 
 ## 📫 Let's Connect
 
-**Email:** tammai265@usf.edu
+**Email:** tammaingocphuong@gmail.com
